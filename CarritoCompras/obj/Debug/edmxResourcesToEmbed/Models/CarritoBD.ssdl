@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CarritoBDModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="CarritoBDModelStoreContainer">
+    <EntitySet Name="Categoria" EntityType="CarritoBDModel.Store.Categoria" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ListaVenta" EntityType="CarritoBDModel.Store.ListaVenta" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Producto" EntityType="CarritoBDModel.Store.Producto" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Venta" EntityType="CarritoBDModel.Store.Venta" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__Producto__Catego__1273C1CD" Association="CarritoBDModel.Store.FK__Producto__Catego__1273C1CD">
+      <End Role="Categoria" EntitySet="Categoria" />
+      <End Role="Producto" EntitySet="Producto" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ListaVent__Produ__182C9B23" Association="CarritoBDModel.Store.FK__ListaVent__Produ__182C9B23">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="ListaVenta" EntitySet="ListaVenta" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ListaVent__Venta__173876EA" Association="CarritoBDModel.Store.FK__ListaVent__Venta__173876EA">
+      <End Role="Venta" EntitySet="Venta" />
+      <End Role="ListaVenta" EntitySet="ListaVenta" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Categoria">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ListaVenta">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VentaId" Type="int" Nullable="true" />
+    <Property Name="ProductoId" Type="int" Nullable="true" />
+    <Property Name="Cantidad" Type="int" Nullable="true" />
+    <Property Name="Total" Type="float" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="Precio" Type="float" Nullable="true" />
+    <Property Name="FechaCreacion" Type="datetime" Nullable="true" />
+    <Property Name="Foto" Type="varchar" Nullable="true" MaxLength="200" />
+    <Property Name="CategoriaId" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Venta">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DiaVenta" Type="datetime" Nullable="true" />
+    <Property Name="Subtotal" Type="float" Nullable="true" />
+    <Property Name="Iva" Type="float" Nullable="true" />
+    <Property Name="Total" Type="float" Nullable="true" />
+  </EntityType>
+  <Association Name="FK__Producto__Catego__1273C1CD">
+    <End Role="Categoria" Type="CarritoBDModel.Store.Categoria" Multiplicity="0..1" />
+    <End Role="Producto" Type="CarritoBDModel.Store.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categoria">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="CategoriaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ListaVent__Produ__182C9B23">
+    <End Role="Producto" Type="CarritoBDModel.Store.Producto" Multiplicity="0..1" />
+    <End Role="ListaVenta" Type="CarritoBDModel.Store.ListaVenta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ListaVenta">
+        <PropertyRef Name="ProductoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ListaVent__Venta__173876EA">
+    <End Role="Venta" Type="CarritoBDModel.Store.Venta" Multiplicity="0..1" />
+    <End Role="ListaVenta" Type="CarritoBDModel.Store.ListaVenta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Venta">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ListaVenta">
+        <PropertyRef Name="VentaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

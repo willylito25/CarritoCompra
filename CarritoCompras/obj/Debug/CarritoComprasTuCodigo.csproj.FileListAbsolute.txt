@@ -1,0 +1,285 @@
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\CarritoComprasTuCodigo.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\CarritoComprasTuCodigo.pdb
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Antlr3.Runtime.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.AspNet.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.Core.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\EntityFramework.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.Edm.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.OData.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Newtonsoft.Json.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Spatial.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Helpers.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.OData.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Mvc.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Optimization.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Razor.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Deployment.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Razor.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebGrease.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.Data.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.WebData.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\EntityFramework.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Newtonsoft.Json.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Helpers.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Mvc.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Razor.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Deployment.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Razor.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.Data.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.WebData.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.AspNet.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.Core.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.OData.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.Edm.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.OData.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Spatial.xml
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\EntityFramework.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Helpers.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Mvc.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Optimization.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Razor.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\WebMatrix.Data.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\WebMatrix.WebData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Http.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.csprojResolveAssemblyReference.cache
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.dll
+c:\users\edrei\documents\visual studio 2012\Projects\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.pdb
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\CarritoComprasTuCodigo.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\CarritoComprasTuCodigo.pdb
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Antlr3.Runtime.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.Core.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\EntityFramework.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.Edm.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.OData.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Newtonsoft.Json.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Spatial.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Helpers.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.OData.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Mvc.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Optimization.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Razor.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebGrease.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.Data.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.WebData.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\EntityFramework.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Newtonsoft.Json.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Helpers.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Mvc.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Razor.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.Data.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.WebData.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.Core.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.OData.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.Edm.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.OData.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Spatial.xml
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\EntityFramework.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\WebMatrix.Data.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.csprojResolveAssemblyReference.cache
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.dll
+C:\Users\ebastar\Documents\Tutorial Carrito\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.pdb
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\CarritoComprasTuCodigo.dll.config
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\CarritoComprasTuCodigo.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\CarritoComprasTuCodigo.pdb
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Antlr3.Runtime.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.Core.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\EntityFramework.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.Edm.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.OData.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Newtonsoft.Json.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Net.Http.Formatting.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Spatial.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Helpers.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.OData.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.WebHost.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Mvc.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Optimization.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Razor.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Razor.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebGrease.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.Data.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.WebData.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\EntityFramework.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Newtonsoft.Json.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Net.Http.Formatting.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Helpers.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.WebHost.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Mvc.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Razor.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.WebPages.Razor.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.Data.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\WebMatrix.WebData.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.Core.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Web.Http.OData.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.Edm.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\Microsoft.Data.OData.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\System.Spatial.xml
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\EntityFramework.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Http.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Razor.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\WebMatrix.Data.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\de\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\es\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\fr\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\it\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ja\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ko\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\ru\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.csprojAssemblyReference.cache
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.csproj.CoreCompileInputs.cache
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.csproj.CopyComplete
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.dll
+C:\Users\deii\Desktop\CarritoComprasTuCodigo\CarritoComprasTuCodigo\obj\Debug\CarritoComprasTuCodigo.pdb
